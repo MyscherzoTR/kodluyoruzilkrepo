@@ -20,5 +20,5 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-Lincense
+## Lincense
 [MIT](https://choosealicense.com/licenses/mit/)
