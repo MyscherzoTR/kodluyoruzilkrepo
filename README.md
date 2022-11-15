@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 `git clone https://github.com/MyscherzoTR/kodluyoruzilkrepo.git`
 
-##Usage
+## Usage
 
 Projeyi cloneladıktan sonra Visual Code programında açınız.
 
@@ -16,7 +16,7 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
-##Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
